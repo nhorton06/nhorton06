@@ -4,4 +4,4 @@ I am a student at the School of Data Science within the University of Virginia. 
 
 [Dead by Daylight Data Project](https://dbd-calculator.onrender.com/)
 
-I would love to intern for game companies like Valve or id Software as well as more software-driven companies with a drive for statistics and analytics.
+I would love to intern over the summer for game companies like Valve or id Software as well as more software-driven companies with a focus on statistics and analytics.
