@@ -6,4 +6,4 @@ Below is a project I've created and worked on last semester. It started as a dem
 
 [Dead by Daylight Data Project](https://dbd-calculator.onrender.com/)
 
-I would love to intern over the summer for game companies like Valve or id Software as well as more software-driven companies with a focus on statistics and analytics.
+I would love to intern over the summer for game companies like Valve or id Software as well as more software-driven companies with a focus on systems, data preprocessing, and/or analytics.
